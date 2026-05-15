@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 8a01727a6589cc74f9938d5a8b4512d2
+guid: 4f21654676e70db4eb8b6daef02952c8
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 732283454143497553
-    second: stack-books-isolated-transparent-background_191066-25025_0
+      213: 8567388377776092405
+    second: photo_2026-05-10_16-27-28_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: stack-books-isolated-transparent-background_191066-25025_0
+      name: photo_2026-05-10_16-27-28_0
       rect:
         serializedVersion: 2
-        x: 46
-        y: 11
-        width: 657
-        height: 717
+        x: 178
+        y: 193
+        width: 889
+        height: 824
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1558e17fbe7992a00800000000000000
-      internalID: 732283454143497553
+      spriteID: 5f4772e665a75e670800000000000000
+      internalID: 8567388377776092405
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      stack-books-isolated-transparent-background_191066-25025_0: 732283454143497553
+      photo_2026-05-10_16-27-28_0: 8567388377776092405
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
