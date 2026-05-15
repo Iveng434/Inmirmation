@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bd7dbfcbc37e7df42b3437119cf37c22
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - map: {instanceID: 0}
+  - treeTile: {fileID: 11400000, guid: 23545f41e869aeb44b84c6ec60be02c6, type: 2}
+  - towerTile: {instanceID: 0}
+  - emptyTile: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
