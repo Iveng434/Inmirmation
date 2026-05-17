@@ -385,7 +385,7 @@ PrefabInstance:
     - target: {fileID: 1494187054475462229, guid: 6e3b7b08ce0a79244b7533bed0162e5e, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
-      objectReference: {fileID: 1225601078149118580, guid: 7063a719c24d3c646bce4590eec698e1, type: 3}
+      objectReference: {fileID: 1044668381}
     - target: {fileID: 1494187054475462229, guid: 6e3b7b08ce0a79244b7533bed0162e5e, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
       value: OpenPanel
@@ -393,7 +393,7 @@ PrefabInstance:
     - target: {fileID: 1965140156704822759, guid: 6e3b7b08ce0a79244b7533bed0162e5e, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
-      objectReference: {fileID: 1225601078149118580, guid: 7063a719c24d3c646bce4590eec698e1, type: 3}
+      objectReference: {fileID: 1044668381}
     - target: {fileID: 1965140156704822759, guid: 6e3b7b08ce0a79244b7533bed0162e5e, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
       value: ClosePanel
@@ -779,6 +779,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dff805e63043a604ca499244d09d3701, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MenuManager
+--- !u!114 &1044668381 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 1225601078149118580, guid: 7063a719c24d3c646bce4590eec698e1, type: 3}
+  m_PrefabInstance: {fileID: 1475294518}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6d9fadc65cc2bf4caac03fa25030e2d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SettingsPanel
 --- !u!114 &1121111203 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 5847380576378875937, guid: 6aef44b64d5b8c948ae2c645d50d8f3f, type: 3}
